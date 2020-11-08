@@ -1,5 +1,11 @@
 ### Hi 👋
 
+I'm a software developer. I'm from Korea, living in Seoul and currently working at Skelter Labs.
+
+## ✍ Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on my website at [happy-nut.github.io](https://happy-nut.github.io/).
+
 <!--
 **happy-nut/happy-nut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <img src="https://github-readme-stats.vercel.app/api?username=happy-nut&show_icons=true&theme=dracula" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happy-nut&layout=compact&theme=dracula" />
+## &#x1f4c8; GitHub Stats
+
+ <img src="https://github-readme-stats.vercel.app/api?username=happy-nut&show_icons=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happy-nut&layout=compact" />
