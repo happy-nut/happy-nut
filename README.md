@@ -23,4 +23,9 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
- <img src="https://github-readme-stats.vercel.app/api?username=happy-nut&show_icons=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happy-nut&layout=compact" />
+<a href="https://github.com/happy-nut/happy-nut">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happy-nut&hide=objective-c,html" />
+</a>
+<a href="https://github.com/happy-nut/happy-nut">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=happy-nut&show_icons=true&line_height=27&count_private=true" alt="happy-nut's GitHub Stats" />
+</a>
