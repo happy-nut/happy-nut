@@ -1,4 +1,4 @@
-### Hi 👋
+# Hi 👋
 
 I'm a software developer. I'm from Korea, living in Seoul and currently working at Skelter Labs.
 
@@ -23,13 +23,11 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-<div style="display:flex;justify-content:space-between">
-  <a href="https://github.com/happy-nut/happy-nut">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=happy-nut&show_icons=true&line_height=27&count_private=true" alt="happy-nut's GitHub Stats" />
-  </a>
+<a href="https://github.com/happy-nut/happy-nut">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=happy-nut&show_icons=true&line_height=27&count_private=true" alt="happy-nut's GitHub Stats" />
+</a>
 
-  <a href="https://github.com/happy-nut/happy-nut">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happy-nut&hide=objective-c,html" />
-  </a>
-</div>
+<a href="https://github.com/happy-nut/happy-nut">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happy-nut&hide=objective-c,html" />
+</a>
 
