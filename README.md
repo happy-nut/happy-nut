@@ -1,6 +1,6 @@
 ## Hi 😊
 
-I'm a software developer. I'm from Korea, living in Seoul and currently working at Skelter Labs.
+I'm a software developer. I'm from Korea, living in Seoul and currently working at [Viva Republica](https://toss.im/).
 
 ### ✍️ Blog & Writing
 
