@@ -4,7 +4,7 @@ I'm a software developer. I'm from Korea, living in Seoul and currently working 
 
 ### ✍️ Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [happy-nut.github.io](https://happy-nut.github.io/).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [happynut.me](https://happynut.me).
 
 ### 📈 Github Stats
 
